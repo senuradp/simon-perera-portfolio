@@ -1,0 +1,245 @@
+[
+  {
+    "name": "Intelligent-IoT-Data-Management",
+    "description": null,
+    "language": "Jupyter Notebook",
+    "url": "https://github.com/senuradp/Intelligent-IoT-Data-Management",
+    "fork": true,
+    "category": "AI & Data",
+    "title": "Intelligent IoT Data Management"
+  },
+  {
+    "name": "Deakin-Unit-Page",
+    "description": null,
+    "language": "HTML",
+    "url": "https://github.com/senuradp/Deakin-Unit-Page",
+    "fork": true,
+    "category": "Web",
+    "title": "Deakin Unit Page"
+  },
+  {
+    "name": "sit-742-modern-data-science-group-12",
+    "description": null,
+    "language": "Jupyter Notebook",
+    "url": "https://github.com/senuradp/sit-742-modern-data-science-group-12",
+    "fork": false,
+    "category": "AI & Data",
+    "title": "Modern Data Science \u2014 Group Project"
+  },
+  {
+    "name": "8.2CDevSecOps",
+    "description": null,
+    "language": "JavaScript",
+    "url": "https://github.com/senuradp/8.2CDevSecOps",
+    "fork": false,
+    "category": "Web",
+    "title": "DevSecOps Coursework"
+  },
+  {
+    "name": "SIT772_TASK_9_2_D",
+    "description": null,
+    "language": "PHP",
+    "url": "https://github.com/senuradp/SIT772_TASK_9_2_D",
+    "fork": false,
+    "category": "Web",
+    "title": "PHP Coursework Project"
+  },
+  {
+    "name": "Currency-Exchange-App-7.4HD",
+    "description": null,
+    "language": "C#",
+    "url": "https://github.com/senuradp/Currency-Exchange-App-7.4HD",
+    "fork": false,
+    "category": "Java & .NET",
+    "title": "Currency Exchange App"
+  },
+  {
+    "name": "SIT774_TASK_10_4_HD",
+    "description": null,
+    "language": "EJS",
+    "url": "https://github.com/senuradp/SIT774_TASK_10_4_HD",
+    "fork": false,
+    "category": "Web",
+    "title": "Web Development Coursework"
+  },
+  {
+    "name": "laravel-twill-page-builder",
+    "description": null,
+    "language": "PHP",
+    "url": "https://github.com/senuradp/laravel-twill-page-builder",
+    "fork": false,
+    "category": "Web",
+    "title": "Laravel & Twill Page Builder"
+  },
+  {
+    "name": "results_portal",
+    "description": null,
+    "language": "JavaScript",
+    "url": "https://github.com/senuradp/results_portal",
+    "fork": false,
+    "category": "Web",
+    "title": "Results Portal"
+  },
+  {
+    "name": "react-portfolio-responsive",
+    "description": "Responsive React Portfolio",
+    "language": "JavaScript",
+    "url": "https://github.com/senuradp/react-portfolio-responsive",
+    "fork": false,
+    "category": "Web",
+    "title": "Responsive React Portfolio"
+  },
+  {
+    "name": "java-spring-crud-app",
+    "description": null,
+    "language": "Java",
+    "url": "https://github.com/senuradp/java-spring-crud-app",
+    "fork": false,
+    "category": "Java & .NET",
+    "title": "Spring CRUD Application"
+  },
+  {
+    "name": "java-pos-client-server",
+    "description": "JAVA Swing Client Server Point Of Sale (POS) System with OOP Design Patterns",
+    "language": "Java",
+    "url": "https://github.com/senuradp/java-pos-client-server",
+    "fork": false,
+    "category": "Java & .NET",
+    "title": "Client\u2013Server Point of Sale"
+  },
+  {
+    "name": "finance-business-company-portfolio",
+    "description": "Finance & Business company portfolio - Laravel 10",
+    "language": "CSS",
+    "url": "https://github.com/senuradp/finance-business-company-portfolio",
+    "fork": false,
+    "category": "Web",
+    "title": "Finance & Business Website"
+  },
+  {
+    "name": "cb008868-ssp-2-buttercupevents",
+    "description": "Buttercup Events - Event booking website",
+    "language": "JavaScript",
+    "url": "https://github.com/senuradp/cb008868-ssp-2-buttercupevents",
+    "fork": false,
+    "category": "Web",
+    "title": "Buttercup Event Booking"
+  },
+  {
+    "name": "koa_with_xai",
+    "description": "Knee Osteoarthritis Detection from X-Ray Images using Explainable AI",
+    "language": "Jupyter Notebook",
+    "url": "https://github.com/senuradp/koa_with_xai",
+    "fork": false,
+    "category": "AI & Data",
+    "title": "Explainable AI for Knee Osteoarthritis"
+  },
+  {
+    "name": "java-pos",
+    "description": "JAVA Point Of Sale (POS) System with OOP Design Patterns",
+    "language": "Java",
+    "url": "https://github.com/senuradp/java-pos",
+    "fork": false,
+    "category": "Java & .NET",
+    "title": "Java Point of Sale"
+  },
+  {
+    "name": "java-pos-servlet-threads",
+    "description": null,
+    "language": "Java",
+    "url": "https://github.com/senuradp/java-pos-servlet-threads",
+    "fork": false,
+    "category": "Java & .NET",
+    "title": "Java POS \u2014 Servlets & Threads"
+  },
+  {
+    "name": "cb008868-ssp2-event-planner",
+    "description": "Buttercup events is a event planning platform created by Senura Perera for the SSP-2 assignment",
+    "language": "Blade",
+    "url": "https://github.com/senuradp/cb008868-ssp2-event-planner",
+    "fork": false,
+    "category": "Web",
+    "title": "Buttercup Event Planner"
+  },
+  {
+    "name": "react-form",
+    "description": null,
+    "language": "JavaScript",
+    "url": "https://github.com/senuradp/react-form",
+    "fork": false,
+    "category": "Web",
+    "title": "React Form Project"
+  },
+  {
+    "name": "cc2-group2-assignment",
+    "description": "Collaborative university project for Commercial Computing 2.",
+    "language": "Blade",
+    "url": "https://github.com/senuradp/cc2-group2-assignment",
+    "fork": false,
+    "category": "Web",
+    "title": "Commercial Computing \u2014 Team Project"
+  },
+  {
+    "name": "spring5webapp",
+    "description": "Example Spring 5 Web Application",
+    "language": "Java",
+    "url": "https://github.com/senuradp/spring5webapp",
+    "fork": true,
+    "category": "Java & .NET",
+    "title": "Spring 5 Web Application"
+  },
+  {
+    "name": "android_java_password_manager",
+    "description": "Android password manager application built using using java with the use of firebase database",
+    "language": "Java",
+    "url": "https://github.com/senuradp/android_java_password_manager",
+    "fork": false,
+    "category": "Mobile",
+    "title": "Android Password Manager"
+  },
+  {
+    "name": "flutter_auth_sqlite",
+    "description": "Flutter sqlite auth application",
+    "language": "Flutter / Dart",
+    "url": "https://github.com/senuradp/flutter_auth_sqlite",
+    "fork": false,
+    "category": "Mobile",
+    "title": "Flutter Authentication with SQLite"
+  },
+  {
+    "name": "flutter_auth_firebase",
+    "description": "Flutter auth application using firebase",
+    "language": "Dart",
+    "url": "https://github.com/senuradp/flutter_auth_firebase",
+    "fork": false,
+    "category": "Mobile",
+    "title": "Flutter Authentication with Firebase"
+  },
+  {
+    "name": "flutter_crud_firebase",
+    "description": "Flutter CRUD operations app with firebase",
+    "language": "Flutter / Dart",
+    "url": "https://github.com/senuradp/flutter_crud_firebase",
+    "fork": false,
+    "category": "Mobile",
+    "title": "Flutter & Firebase CRUD App"
+  },
+  {
+    "name": "ssp-2-booking-x",
+    "description": "Booking Platform Server Side Programming-2 ",
+    "language": "PHP",
+    "url": "https://github.com/senuradp/ssp-2-booking-x",
+    "fork": false,
+    "category": "Web",
+    "title": "Booking Platform \u2014 Server-Side Project"
+  },
+  {
+    "name": "cb008868DZ",
+    "description": null,
+    "language": "HTML",
+    "url": "https://github.com/senuradp/cb008868DZ",
+    "fork": false,
+    "category": "Web",
+    "title": "HTML Coursework Project"
+  }
+]
